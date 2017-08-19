@@ -36,3 +36,13 @@ body {
 				-5em 0 3em rgba(255, 255, 255, 0.3);
 	transform: rotate(-20deg) translate(3em);
 }
+
+/*small crescent moon*/
+.t-crescent-moon {
+	height: 12em;
+	width: 12em;
+	border-radius: 50%;
+	background: transparent;
+	box-shadow: -2em 0em 1em #fff;
+	transform: rotate(-20deg) translate(3em);
+}
