@@ -1,3 +1,17 @@
 body {
 	background: #483d8b url('../images/sky.jpg');
 }
+
+.col-md-3 {
+	float: left;
+	margin-top: 16%;
+}
+
+/*full moon*/
+.full-moon {
+	height: 12em;
+	width: 12em;
+	border-radius: 50%;
+	background: #fff;
+	box-shadow: -1em 0.5em 1em rgba(255, 255, 255, 0.3);
+}
