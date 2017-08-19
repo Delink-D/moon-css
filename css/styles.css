@@ -13,5 +13,17 @@ body {
 	width: 12em;
 	border-radius: 50%;
 	background: #fff;
-	box-shadow: -1em 0.5em 1em rgba(255, 255, 255, 0.3);
+	box-shadow: -0.5em 0.5em 1em rgba(255, 255, 255, 0.3);
 }
+
+/*half moon*/
+.half-moon {
+	height: 12em;
+	width: 6em;
+	background: #fff;
+	border-bottom-left-radius: 24em;
+	border-top-left-radius: 24em;
+	box-shadow: -0.5em 0.5em 1em rgba(255, 255, 255, 0.3);
+}
+
+
