@@ -26,4 +26,13 @@ body {
 	box-shadow: -0.5em 0.5em 1em rgba(255, 255, 255, 0.3);
 }
 
-
+/*crescent moon*/
+.crescent-moon {
+	height: 12em;
+	width: 12em;
+	border-radius: 50%;
+	background: transparent;
+	box-shadow: -3em 0 0 1em #fff,
+				-5em 0 3em rgba(255, 255, 255, 0.3);
+	transform: rotate(-20deg) translate(3em);
+}
